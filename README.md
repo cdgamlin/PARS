@@ -1,5 +1,3 @@
-# [cdgamlin.github.io](https://github.com/cdgamlin/cdgamlin.github.io/)
-
 # PARS: *Playlist Aggregator Refiner Scheme*
 
 Parses multiple FREE online M3U playlists to generate a custom IPTV.M3U playlist
